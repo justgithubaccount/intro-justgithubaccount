@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Coming Soon (просто описание всех реп гитхаб-акка как единной концепции) | Надежда зажжётся (если ты понял (а) отсылку, пиши, я приду)
 
 
-# 🔭 I’m currently working on ... 🌱 I’m currently learning ... 👯 I’m looking to collaborate on ...
+## 🔭 I’m currently working on ... 🌱 I’m currently learning ... 👯 I’m looking to collaborate on ...
 
 ### 🤖 ИИ-агент
 Основной проект. С кодовым названием [app-release](https://github.com/justgithubaccount/app-release).  
